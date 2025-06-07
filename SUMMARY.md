@@ -17,11 +17,8 @@
 
 ***
 
+* [工艺](gong-yi.md)
 * [图纸](tu-zhi.md)
-
-## 花生
-
-* [璇玑志](hua-sheng/update.md)
 
 ## 🦄 衙署
 
@@ -31,3 +28,7 @@
 
 * [城隍](cheng-huang.md)
 * [驿站](yi-zhan.md)
+
+## 🥰 花生
+
+* [璇玑志](hua-sheng/update.md)
