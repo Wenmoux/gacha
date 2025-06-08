@@ -9,4 +9,4 @@
 | Lv.3 | 兰蕊笔 | 羊毫\*2、狼毫\*1、青竹\*1                                                                                                               |
 | Lv.4 | 散卓笔 | <mark style="color:green;">青羊毫\*1、</mark>苦竹\*1、狼毫\*1                                                                            |
 | Lv.5 | 冰翼笔 | <mark style="color:green;">冰狼毫\*1</mark>、<mark style="color:green;">冷杉木\*1</mark>、鱼胶\*1                                         |
-| 6级   | 梅梢月 | <mark style="color:blue;">湘妃梅\*1</mark>、<mark style="color:green;">青羊毫\*1</mark>、<mark style="color:green;">黑貂毫\*1</mark>、紫豪\*1 |
+| Lv.6 | 梅梢月 | <mark style="color:blue;">湘妃梅\*1</mark>、<mark style="color:green;">青羊毫\*1</mark>、<mark style="color:green;">黑貂毫\*1</mark>、紫豪\*1 |
