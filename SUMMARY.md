@@ -4,7 +4,7 @@
 
 ## 👽 属性
 
-* [效果](shu-xing/quickstart.md)
+* [状态](shu-xing/quickstart.md)
 * [技能](shu-xing/publish-your-docs.md)
 
 ***
@@ -13,11 +13,24 @@
 
 ## 🏵️ 器物
 
+* [制品](qi-wu/zhi-pin.md)
 * [藏品](qi-wu/cang-pin.md)
 
 ***
 
-* [工艺](gong-yi.md)
+* [物品](wu-pin.md)
+* [展品](zhan-pin.md)
+
+## 🗜️ 工艺
+
+* [图纸](gong-yi/tu-zhi.md)
+
+## 💼 市井
+
+* [商行](shi-jing/shang-hang.md)
+* [瓦舍](shi-jing/wa-she.md)
+* [勾栏](shi-jing/gou-lan.md)
+* [牙行](shi-jing/ya-xing.md)
 
 ## 🦄 衙署
 
