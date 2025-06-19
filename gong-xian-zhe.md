@@ -1,8 +1,8 @@
 # 贡献者
 
-> 排名不分先后，只有红色是受。
+> 排名不分先后
 
-<mark style="color:red;">258a</mark> &#x20;
+258a &#x20;
 
 wenmoux&#x20;
 

@@ -29,7 +29,7 @@
 
 * [商行](shi-jing/shang-hang.md)
 * [瓦舍](shi-jing/wa-she.md)
-* [勾栏](shi-jing/gou-lan.md)
+* [货铺](shi-jing/huo-pu.md)
 * [牙行](shi-jing/ya-xing.md)
 
 ## 🦄 衙署
@@ -39,6 +39,7 @@
 ***
 
 * [城隍](cheng-huang.md)
+* [勾栏](gou-lan.md)
 * [驿站](yi-zhan.md)
 
 ## 🥰 花生
