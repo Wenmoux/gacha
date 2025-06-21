@@ -10,6 +10,7 @@
 | ------------------------------------- | ---- | ---------- |
 | <mark style="color:red;">九转霰</mark>   | 承辉素材 | 九劫轮回、飞霰破玄  |
 | <mark style="color:blue;">藏宝图</mark>  | 寻宝奇遇 | 圣库秘藏、金山银山  |
+| <mark style="color:blue;">六华膏</mark>  | 承辉素材 | 六气交淬、玄膏炼英  |
 | <mark style="color:blue;">紫檀木</mark>  | 制作素材 | 色泽沉郁、木纹细密  |
 | <mark style="color:blue;">天青冻</mark>  | 制作素材 | 澄澈如空、冰润透光  |
 | <mark style="color:blue;">松花石</mark>  | 制作素材 | 绿蕴天成、质润如脂  |
