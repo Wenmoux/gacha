@@ -17,7 +17,7 @@
 | <mark style="color:blue;">青花石</mark>  | 制作素材 | 凝碧欲滴、莹澈通灵  |
 | <mark style="color:blue;">彩药玉</mark>  | 制作素材 | 彩熔光淬、澄澈无瑕  |
 | <mark style="color:blue;">端砚墨</mark>  | 完成推敲 | 用料讲究、质地细腻  |
-| 松烟墨                                   | 加速推敲 | 墨色黑亮、持久光泽  |
+| <mark style="color:green;">松烟墨</mark> | 加速推敲 | 墨色黑亮、持久光泽  |
 | <mark style="color:green;">浣花笺</mark> | 刷新奇遇 | 颜色艳丽、纸质细腻  |
 | <mark style="color:green;">藏珍图</mark> | 寻宝奇遇 | 山川地理、品类繁多  |
 | <mark style="color:green;">三素尘</mark> | 承辉素材 | 三才初凝、聚形启妙  |
