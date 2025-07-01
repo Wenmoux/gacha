@@ -8,33 +8,33 @@
 
 | 名称                                    | 用途   | 简介         |
 | ------------------------------------- | ---- | ---------- |
-| <mark style="color:red;">九转霰</mark>   | 承辉素材 | 九劫轮回、飞霰破玄  |
-| <mark style="color:blue;">藏宝图</mark>  | 寻宝奇遇 | 圣库秘藏、金山银山  |
-| <mark style="color:blue;">六华膏</mark>  | 承辉素材 | 六气交淬、玄膏炼英  |
-| <mark style="color:blue;">紫檀木</mark>  | 制作素材 | 色泽沉郁、木纹细密  |
-| <mark style="color:blue;">天青冻</mark>  | 制作素材 | 澄澈如空、冰润透光  |
-| <mark style="color:blue;">松花石</mark>  | 制作素材 | 绿蕴天成、质润如脂  |
-| <mark style="color:blue;">湘妃梅</mark>  | 制作素材 | 虬曲苍劲、斑痕如泪  |
-| <mark style="color:blue;">青花石</mark>  | 制作素材 | 凝碧欲滴、莹澈通灵  |
-| <mark style="color:blue;">彩药玉</mark>  | 制作素材 | 彩熔光淬、澄澈无瑕  |
-| <mark style="color:blue;">端砚墨</mark>  | 完成推敲 | 用料讲究、质地细腻  |
-| <mark style="color:green;">松烟墨</mark> | 加速推敲 | 墨色黑亮、持久光泽  |
-| <mark style="color:green;">浣花笺</mark> | 刷新奇遇 | 颜色艳丽、纸质细腻  |
-| <mark style="color:green;">藏珍图</mark> | 寻宝奇遇 | 山川地理、品类繁多  |
-| <mark style="color:green;">三素尘</mark> | 承辉素材 | 三才初凝、聚形启妙  |
-| <mark style="color:green;">金银丝</mark> | 制作素材 | 金光璀璨、柔韧华贵  |
-| <mark style="color:green;">砗磲粉</mark> | 制作素材 | 贝纹层叠、莹白如玉  |
-| <mark style="color:green;">青羊毫</mark> | 制作素材 | 毫颖柔韧、色润如黛  |
-| <mark style="color:green;">冰狼毫</mark> | 制作素材 | 毫尖如锥、色凝霜雪  |
-| <mark style="color:green;">冷杉木</mark> | 制作素材 | 纹理通直、木香清冽  |
-| <mark style="color:green;">黑貂毫</mark> | 制作素材 | 毫颖精粹、玄光内蕴  |
-| <mark style="color:green;">洮河石</mark> | 制作素材 | 绿漪荡漾、石质莹润  |
-| <mark style="color:green;">松烟粉</mark> | 制作素材 | 墨色玄奥、烟质细腻  |
-| <mark style="color:green;">金星石</mark> | 制作素材 | 石孕金砂、灿若繁星  |
-| <mark style="color:green;">湘妃竹</mark> | 制作素材 | 斑痕泪染、竿秀姿清  |
-| <mark style="color:green;">火齐竹</mark> | 制作素材 | 竿色赤霞、节坚似铁  |
-| <mark style="color:green;">沉香木</mark> | 制作素材 | 脂结香凝、气韵醇和  |
-| <mark style="color:green;">鲛人绢</mark> | 制作素材 | 薄如蝉翼、光映月华  |
+| <span style="color:red;">九转霰</span>   | 承辉素材 | 九劫轮回、飞霰破玄  |
+| <span style="color:blue;">藏宝图</span>  | 寻宝奇遇 | 圣库秘藏、金山银山  |
+| <span style="color:blue;">六华膏</span>  | 承辉素材 | 六气交淬、玄膏炼英  |
+| <span style="color:blue;">紫檀木</span>  | 制作素材 | 色泽沉郁、木纹细密  |
+| <span style="color:blue;">天青冻</span>  | 制作素材 | 澄澈如空、冰润透光  |
+| <span style="color:blue;">松花石</span>  | 制作素材 | 绿蕴天成、质润如脂  |
+| <span style="color:blue;">湘妃梅</span>  | 制作素材 | 虬曲苍劲、斑痕如泪  |
+| <span style="color:blue;">青花石</span>  | 制作素材 | 凝碧欲滴、莹澈通灵  |
+| <span style="color:blue;">彩药玉</span>  | 制作素材 | 彩熔光淬、澄澈无瑕  |
+| <span style="color:blue;">端砚墨</span>  | 完成推敲 | 用料讲究、质地细腻  |
+| <span style="color:green;">松烟墨</span> | 加速推敲 | 墨色黑亮、持久光泽  |
+| <span style="color:green;">浣花笺</span> | 刷新奇遇 | 颜色艳丽、纸质细腻  |
+| <span style="color:green;">藏珍图</span> | 寻宝奇遇 | 山川地理、品类繁多  |
+| <span style="color:green;">三素尘</span> | 承辉素材 | 三才初凝、聚形启妙  |
+| <span style="color:green;">金银丝</span> | 制作素材 | 金光璀璨、柔韧华贵  |
+| <span style="color:green;">砗磲粉</span> | 制作素材 | 贝纹层叠、莹白如玉  |
+| <span style="color:green;">青羊毫</span> | 制作素材 | 毫颖柔韧、色润如黛  |
+| <span style="color:green;">冰狼毫</span> | 制作素材 | 毫尖如锥、色凝霜雪  |
+| <span style="color:green;">冷杉木</span> | 制作素材 | 纹理通直、木香清冽  |
+| <span style="color:green;">黑貂毫</span> | 制作素材 | 毫颖精粹、玄光内蕴  |
+| <span style="color:green;">洮河石</span> | 制作素材 | 绿漪荡漾、石质莹润  |
+| <span style="color:green;">松烟粉</span> | 制作素材 | 墨色玄奥、烟质细腻  |
+| <span style="color:green;">金星石</span> | 制作素材 | 石孕金砂、灿若繁星  |
+| <span style="color:green;">湘妃竹</span> | 制作素材 | 斑痕泪染、竿秀姿清  |
+| <span style="color:green;">火齐竹</span> | 制作素材 | 竿色赤霞、节坚似铁  |
+| <span style="color:green;">沉香木</span> | 制作素材 | 脂结香凝、气韵醇和  |
+| <span style="color:green;">鲛人绢</span> | 制作素材 | 薄如蝉翼、光映月华  |
 | 兔毫                                    | 制作素材 | 细腻柔软、吸墨力好  |
 | 羊毫                                    | 制作素材 | 富有弹性、吸水性强  |
 | 狼毫                                    | 制作素材 | 坚韧耐磨、弹性较强  |
