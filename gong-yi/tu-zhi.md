@@ -16,6 +16,7 @@
 | Lv.6        | 梅梢月                                          | <span style="color:blue;">湘妃梅◆1</span>、<span style="color:green;">青羊毫◆1</span>、<span style="color:green;">黑貂毫◆1</span>、紫毫◆1 | 83, <span style="color:green;">11</span>, <span style="color:blue;">4.5</span>, <span style="color:red;">1.5</span>, <span style="color:yellow;">0</span>     | 伍       | 陆       |
 | Lv.2 - Lv.5 | <span style="color:red;">竹枝噙雪笔</span>        | <span style="color:green;">湘妃竹◆1、青羊毫◆1、冰狼毫◆1</span>                                                                         | 84.5, <span style="color:green;">10</span>, <span style="color:blue;">4.2</span>, <span style="color:red;">1.2</span>, <span style="color:yellow;">0.1</span> | 伍       | 伍       |
 | Lv.1 - Lv.5 | <span style="color:yellow;">天中砺紫毫(端午)</span> | <span style="color:blue;">紫檀木◆1</span>、<span style="color:green;">金银丝◆1</span>、紫豪◆1                                         | 84.5, <span style="color:green;">10</span>, <span style="color:blue;">4.2</span>, <span style="color:red;">1.2</span>, <span style="color:yellow;">0.1</span> | 伍       | 伍       |
+| Lv.2 - Lv.5 | <span style="color:red;">浮光漱玉笔</span>        | <span style="color:blue;">彩药玉◆1</span>                                                                                      |                                                                                                                                                               |         |         |
 
 ### 制砚
 
